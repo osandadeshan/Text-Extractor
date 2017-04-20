@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="google-api-translate-java-0.98-mod2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OCRTest/libs/google-api-translate-java-0.98-mod2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
