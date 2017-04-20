@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\libs\google-api-translate-java-0.98-mod2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2eda6905f8b719be023772e5c738d93c6b77210b">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-translate-java-0.98-mod2_727aee2c17b9a8b04e094091fcc082e517d78b49\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_bbe15d09c817b652c53c08f60ec9577a90af51ac\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="360568f833daa8f15e88e7192d50a52e7b0b4aad">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-5.4.0_e7f2f737da4fd4cf093d3173606779c1a2046866\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\libs\microsoft-translator-java-api-0.6-mod.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="176df3274c901602fe2b6c345326a6990be557b9">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\microsoft-translator-java-api-0.6-mod_56714b670e102a36366d8d25f8b1833a7f290374\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="2beaaed11be3c520e1dfff2e2b5f585dc06fe99f">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bfe1f60e6fa186391669a39213d61b7690e397e5\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-19.1.0_9f4bb82cd3027e171a8f66c64f96b728b4dd3ffd\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f5e97faaf4b54a3af48d31d7f49571f121f5a642">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_021a92529f1ac0c039892ef013c9859279424ee9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="F:\AndroidStudioProjects\Text Extractor (OCR Text Scanner)\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\jtar-1.0.4_9c9e83781814a7ec2aa0700e28897c904f42fe74\classes.dex" />
+    </item>
+
+</items>
